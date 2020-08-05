@@ -1,0 +1,13 @@
+
+{
+"rules": [
+    {
+    	"bridgeNetworkName": "mybridgeCowrie", 
+  	 	"subnet":"172.36.0.0/16",
+        "s_r":"16",
+  	 	"ipRange":"172.36.5.0/24", 
+  	 	"gateway":"null",
+  	 }
+    ]
+
+}

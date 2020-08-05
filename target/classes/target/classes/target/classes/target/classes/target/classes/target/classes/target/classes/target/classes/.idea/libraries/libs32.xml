@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="libs32">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/libs/pcap4j-core-1.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/libs/slf4j-jdk14-1.7.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/libs/docker-client-8.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/libs/pcap4j-packetfactory-static-1.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/libs/jna-5.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/libs/slf4j-api-1.7.22.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
